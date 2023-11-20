@@ -1,0 +1,1611 @@
+[
+  {
+    "_id": {
+      "$oid": "6527e0994937520079e25229"
+    },
+    "status": {
+      "label": "Open",
+      "value": "1"
+    },
+    "title": "Testing",
+    "short_description": "<p>Testing</p>",
+    "long_description": "<p>Testing</p>",
+    "company": {
+      "bedrijfsnaam": "Test BV Donald",
+      "_id": {
+        "$oid": "6527d7cc5e3a3c6183c107c7"
+      }
+    },
+    "image": "6527d7cc5e3a3c6183c107c7/1697112217213213.jpeg",
+    "image_id": {
+      "$oid": "6527e0994937520079e25226"
+    },
+    "sector": {
+      "label": "Job placement",
+      "value": "2"
+    },
+    "work_location": {
+      "label": "Surat",
+      "value": "3"
+    },
+    "start_date": {
+      "$date": "2023-10-12T11:49:12.691Z"
+    },
+    "end_date": {
+      "$date": "2023-10-13T11:49:12.000Z"
+    },
+    "time_duration": {
+      "label": "3 to 6 months",
+      "value": "2"
+    },
+    "working_hours": {
+      "min": 15,
+      "max": 40
+    },
+    "working_hours_unit": "123",
+    "hours_rate": {
+      "min": 40,
+      "max": 60
+    },
+    "education": {
+      "label": "Administration",
+      "value": "2"
+    },
+    "published": false,
+    "publish_from": {
+      "$date": "2023-12-12T11:49:12.691Z"
+    },
+    "publish_to": {
+      "$date": "2023-12-20T11:49:12.691Z"
+    },
+    "owner": {
+      "$oid": "6527d42f3790198da983ada8"
+    },
+    "profession": {
+      "category": "professions",
+      "code_id": "2530",
+      "description": "Hoofd administratie (m/v)"
+    },
+    "skills": [
+      {
+        "name": "Administratieve Werkzaamheden",
+        "category": "professional_skills",
+        "code_id": "KS7G7FY6ZT1MQXD1KTDY",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863a9e"
+        }
+      },
+      {
+        "name": "Boekhouding",
+        "category": "professional_skills",
+        "code_id": "KS1203W702ND09XHKJR5",
+        "is_extra": false,
+        "checked": false,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863a9f"
+        }
+      },
+      {
+        "name": "Factureren",
+        "category": "professional_skills",
+        "code_id": "KS121056X529461ZF6XW",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa0"
+        }
+      },
+      {
+        "name": "Kantoormanagement",
+        "category": "professional_skills",
+        "code_id": "KS127726HRBBP0F2LTDG",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa1"
+        }
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "it_skills",
+        "code_id": "KS1200H6XYN1CR0G5NZ0",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa2"
+        }
+      },
+      {
+        "name": "Beheer van Debiteuren",
+        "category": "professional_skills",
+        "code_id": "KS1203W6419RJG2KW4QS",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa3"
+        }
+      },
+      {
+        "name": "Microsoft Word",
+        "category": "it_skills",
+        "code_id": "KS1200365FTR9X0M96T9",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa4"
+        }
+      },
+      {
+        "name": "Archiveren",
+        "category": "professional_skills",
+        "code_id": "KS7G55M6TRB1N24LW2P5",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa5"
+        }
+      },
+      {
+        "name": "Secretariële Ervaring",
+        "category": "professional_skills",
+        "code_id": "KSQUV09IARCOXM6GCZT8",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa6"
+        }
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "it_skills",
+        "code_id": "KS126HY6YLTB9R7XJC4Z",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa7"
+        }
+      },
+      {
+        "name": "Personeelszaken",
+        "category": "professional_skills",
+        "code_id": "KS124TG6C6GQ3RGYBJ3G",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa8"
+        }
+      },
+      {
+        "name": "Microsoft Outlook",
+        "category": "it_skills",
+        "code_id": "KS1218H6LSPWQHWXPLCD",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa9"
+        }
+      },
+      {
+        "name": "Coördineren",
+        "category": "soft_skills",
+        "code_id": "KS7G2F36GFX1K55V6GK4",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aaa"
+        }
+      },
+      {
+        "name": "Spreadsheets",
+        "category": "it_skills",
+        "code_id": "KS121JN70DB9VHC8T9GN",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aab"
+        }
+      },
+      {
+        "name": "Records Management",
+        "category": "professional_skills",
+        "code_id": "KS123FM6FGKFC3195NL3",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aac"
+        }
+      }
+    ],
+    "created_by": {
+      "$oid": "6527d42f3790198da983ada8"
+    },
+    "createdAt": {
+      "$date": "2023-10-12T12:03:37.265Z"
+    },
+    "updatedAt": {
+      "$date": "2023-10-19T10:09:21.016Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "652937f1c4b8f9b4489898f3"
+    },
+    "status": {
+      "label": "Open",
+      "value": "1"
+    },
+    "title": "Testing 1",
+    "short_description": "<p>Testing</p>",
+    "long_description": "<p>Testing</p>",
+    "company": {
+      "bedrijfsnaam": "Test BV Donald",
+      "_id": {
+        "$oid": "6527d7cc5e3a3c6183c107c7"
+      }
+    },
+    "image": "6527d7cc5e3a3c6183c107c7/1697112217213213.jpeg",
+    "image_id": {
+      "$oid": "6527e0994937520079e25226"
+    },
+    "sector": {
+      "label": "Job placement",
+      "value": "2"
+    },
+    "work_location": {
+      "label": "Surat",
+      "value": "3"
+    },
+    "start_date": {
+      "$date": "2023-10-12T11:49:12.691Z"
+    },
+    "end_date": {
+      "$date": "2023-10-13T11:49:12.000Z"
+    },
+    "time_duration": {
+      "label": "5 Months",
+      "value": "3"
+    },
+    "working_hours": {
+      "min": 1,
+      "max": 10
+    },
+    "working_hours_unit": "123",
+    "hours_rate": {
+      "min": 35,
+      "max": 40
+    },
+    "education": {
+      "label": "Administration",
+      "value": "2"
+    },
+    "published": false,
+    "publish_from": {
+      "$date": "2023-10-13T11:49:12.691Z"
+    },
+    "publish_to": {
+      "$date": "2023-10-12T11:49:12.691Z"
+    },
+    "owner": {
+      "$oid": "6527d42f3790198da983ada8"
+    },
+    "profession": {
+      "category": "professions",
+      "code_id": "2530",
+      "description": "Hoofd administratie (m/v)"
+    },
+    "skills": [
+      {
+        "name": "Administratieve Werkzaamheden",
+        "category": "professional_skills",
+        "code_id": "KS7G7FY6ZT1MQXD1KTDY",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863a9e"
+        }
+      },
+      {
+        "name": "Boekhouding",
+        "category": "professional_skills",
+        "code_id": "KS1203W702ND09XHKJR5",
+        "is_extra": false,
+        "checked": false,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863a9f"
+        }
+      },
+      {
+        "name": "Factureren",
+        "category": "professional_skills",
+        "code_id": "KS121056X529461ZF6XW",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa0"
+        }
+      },
+      {
+        "name": "Kantoormanagement",
+        "category": "professional_skills",
+        "code_id": "KS127726HRBBP0F2LTDG",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa1"
+        }
+      },
+      {
+        "name": "Microsoft Excel",
+        "category": "it_skills",
+        "code_id": "KS1200H6XYN1CR0G5NZ0",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa2"
+        }
+      },
+      {
+        "name": "Beheer van Debiteuren",
+        "category": "professional_skills",
+        "code_id": "KS1203W6419RJG2KW4QS",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa3"
+        }
+      },
+      {
+        "name": "Microsoft Word",
+        "category": "it_skills",
+        "code_id": "KS1200365FTR9X0M96T9",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa4"
+        }
+      },
+      {
+        "name": "Archiveren",
+        "category": "professional_skills",
+        "code_id": "KS7G55M6TRB1N24LW2P5",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa5"
+        }
+      },
+      {
+        "name": "Secretariële Ervaring",
+        "category": "professional_skills",
+        "code_id": "KSQUV09IARCOXM6GCZT8",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa6"
+        }
+      },
+      {
+        "name": "Microsoft Office",
+        "category": "it_skills",
+        "code_id": "KS126HY6YLTB9R7XJC4Z",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa7"
+        }
+      },
+      {
+        "name": "Personeelszaken",
+        "category": "professional_skills",
+        "code_id": "KS124TG6C6GQ3RGYBJ3G",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa8"
+        }
+      },
+      {
+        "name": "Microsoft Outlook",
+        "category": "it_skills",
+        "code_id": "KS1218H6LSPWQHWXPLCD",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aa9"
+        }
+      },
+      {
+        "name": "Coördineren",
+        "category": "soft_skills",
+        "code_id": "KS7G2F36GFX1K55V6GK4",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aaa"
+        }
+      },
+      {
+        "name": "Spreadsheets",
+        "category": "it_skills",
+        "code_id": "KS121JN70DB9VHC8T9GN",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aab"
+        }
+      },
+      {
+        "name": "Records Management",
+        "category": "professional_skills",
+        "code_id": "KS123FM6FGKFC3195NL3",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "6527f0f3e67a6800bc863aac"
+        }
+      }
+    ],
+    "created_by": {
+      "$oid": "6527d42f3790198da983ada8"
+    },
+    "createdAt": {
+      "$date": "2023-10-12T12:03:37.265Z"
+    },
+    "updatedAt": {
+      "$date": "2023-10-13T05:29:52.177Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "652ce0358a1dadaf879f8e51"
+    },
+    "status": {
+      "label": "Open",
+      "value": "1"
+    },
+    "title": "Fronted",
+    "short_description": "<p>fronted developer</p>",
+    "long_description": "<p>Vacancy for fronted developer</p>",
+    "company": {
+      "bedrijfsnaam": "Test Stichting Bolderbast",
+      "_id": {
+        "$oid": "652cba58d832d4defba906ac"
+      }
+    },
+    "sector": {
+      "label": "Administrative / call center",
+      "value": "1"
+    },
+    "work_location": {
+      "label": "Amdavad",
+      "value": "1"
+    },
+    "start_date": {
+      "$date": "2023-10-16T12:27:06.382Z"
+    },
+    "end_date": {
+      "$date": "2023-10-18T12:27:00.000Z"
+    },
+    "time_duration": {
+      "label": "6 to 12 months",
+      "value": "3"
+    },
+    "working_hours": {
+      "min": 10,
+      "max": 40
+    },
+    "working_hours_unit": "hours",
+    "hours_rate": {
+      "min": 59,
+      "max": 303
+    },
+    "education": {
+      "label": "Enginer",
+      "value": "1"
+    },
+    "published": true,
+    "publish_from": {
+      "$date": "2023-10-16T12:27:06.382Z"
+    },
+    "publish_to": {
+      "$date": "2023-10-18T12:27:00.000Z"
+    },
+    "owner": {
+      "$oid": "6528ce103790198da9847744"
+    },
+    "profession": {
+      "category": "professions",
+      "code_id": "5388",
+      "description": "Frontend developer (m/v)"
+    },
+    "skills": [
+      {
+        "name": "ReactJS",
+        "category": "it_skills",
+        "code_id": "KS9E9SUSTX6U1ESK796U",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f9216514e"
+        }
+      },
+      {
+        "name": "CSS",
+        "category": "it_skills",
+        "code_id": "KS121F45VPV8C9W3QFYH",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f9216514f"
+        }
+      },
+      {
+        "name": "Typescript",
+        "category": "it_skills",
+        "code_id": "KS441LF7187KS0CV4B6Y",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165150"
+        }
+      },
+      {
+        "name": "JavaScript",
+        "category": "it_skills",
+        "code_id": "KS1200771D9CR9LB4MWW",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165151"
+        }
+      },
+      {
+        "name": "AngularJS",
+        "category": "it_skills",
+        "code_id": "KSIF8EJFQQ0T7CER8KX3",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165152"
+        }
+      },
+      {
+        "name": "Vue.Js",
+        "category": "it_skills",
+        "code_id": "KSGDZ4VMK1WCGQCE1KUT",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165153"
+        }
+      },
+      {
+        "name": "Sass",
+        "category": "it_skills",
+        "code_id": "KSHAT7C41615LE1RC2U1",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165154"
+        }
+      },
+      {
+        "name": "Webpack",
+        "category": "it_skills",
+        "code_id": "KSIDDB2VJJYDU67905S9",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165155"
+        }
+      },
+      {
+        "name": "Front End",
+        "category": "it_skills",
+        "code_id": "KSQ4V3A6FGYT0MLOOUEX",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165156"
+        }
+      },
+      {
+        "name": "HTML",
+        "category": "it_skills",
+        "code_id": "KS1200578T5QCYT0Z98G",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165157"
+        }
+      },
+      {
+        "name": "Browsercompatibiliteit",
+        "category": "it_skills",
+        "code_id": "KS1217278SZ35V5NJM37",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165158"
+        }
+      },
+      {
+        "name": "React Redux",
+        "category": "it_skills",
+        "code_id": "KSQOOX1S2DYD0E1VVZ5X",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f92165159"
+        }
+      },
+      {
+        "name": "HTML5",
+        "category": "it_skills",
+        "code_id": "KS120RM619V18NJXTHV1",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f9216515a"
+        }
+      },
+      {
+        "name": "ECMAScript",
+        "category": "it_skills",
+        "code_id": "KS1239R64LDPZDFS25RV",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f9216515b"
+        }
+      },
+      {
+        "name": "Backend",
+        "category": "it_skills",
+        "code_id": "KSFFZBDYXH5XA5QE4E7I",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "65366991157a776f9216515c"
+        }
+      },
+      {
+        "name": "HVAC",
+        "category": "professional_skills",
+        "code_id": "KS120C76T2L99X2YNKS3",
+        "is_extra": true,
+        "checked": false,
+        "_id": {
+          "$oid": "65366991157a776f9216515d"
+        }
+      },
+      {
+        "name": "Condensors",
+        "category": "professional_skills",
+        "code_id": "KS1228G6BZ2NZNFF9KHT",
+        "is_extra": true,
+        "checked": false,
+        "_id": {
+          "$oid": "65366991157a776f9216515e"
+        }
+      }
+    ],
+    "created_by": {
+      "$oid": "6528ce103790198da9847744"
+    },
+    "createdAt": {
+      "$date": "2023-10-16T07:03:17.635Z"
+    },
+    "updatedAt": {
+      "$date": "2023-10-23T12:39:45.590Z"
+    },
+    "__v": 0,
+    "image": "652cba58d832d4defba906ac/16976178127467465.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "652d15078d59262f2c6b56a1"
+    },
+    "status": {
+      "label": "Open",
+      "value": "1"
+    },
+    "title": "Android Developer",
+    "short_description": "<p>Test</p>",
+    "long_description": "<p>test</p>",
+    "company": {
+      "bedrijfsnaam": "Test Stichting Bolderbast",
+      "_id": {
+        "$oid": "652cba58d832d4defba906ac"
+      }
+    },
+    "sector": {
+      "label": "Job placement",
+      "value": "2"
+    },
+    "work_location": {
+      "label": "Amdavad",
+      "value": "1"
+    },
+    "start_date": {
+      "$date": "2023-10-16T16:16:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-10-16T16:16:00.000Z"
+    },
+    "time_duration": {
+      "label": "Up to 3 months",
+      "value": "1"
+    },
+    "working_hours": {
+      "min": 10,
+      "max": 50
+    },
+    "working_hours_unit": "test",
+    "hours_rate": {
+      "min": 80,
+      "max": 169
+    },
+    "education": {
+      "label": "Enginer",
+      "value": "1"
+    },
+    "published": false,
+    "publish_from": {
+      "$date": "2023-10-16T16:16:52.193Z"
+    },
+    "publish_to": {
+      "$date": "2023-10-16T16:16:52.193Z"
+    },
+    "owner": {
+      "$oid": "6528ce103790198da9847744"
+    },
+    "profession": {
+      "category": "professions",
+      "code_id": "5283",
+      "description": "Android developer (m/v)"
+    },
+    "skills": [
+      {
+        "name": "Kotlin",
+        "category": "it_skills",
+        "code_id": "KSGQ9QZ5IFB2Q2JYUENP",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b4d"
+        }
+      },
+      {
+        "name": "Android SDK",
+        "category": "it_skills",
+        "code_id": "KS120GZ74XB412QM61XK",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b4e"
+        }
+      },
+      {
+        "name": "Android",
+        "category": "it_skills",
+        "code_id": "KS120GZ5YXC6YVM1NGPR",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b4f"
+        }
+      },
+      {
+        "name": "Android Studio",
+        "category": "it_skills",
+        "code_id": "KS120H16DSFH8546JPX1",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b50"
+        }
+      },
+      {
+        "name": "MVVM",
+        "category": "it_skills",
+        "code_id": "KS126TT617NQ007M2JJ4",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b51"
+        }
+      },
+      {
+        "name": "Mobile Application Development",
+        "category": "it_skills",
+        "code_id": "KS121JW5XD3J5438SMXP",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b52"
+        }
+      },
+      {
+        "name": "Rxjava",
+        "category": "it_skills",
+        "code_id": "KS2JFPY5T4QCA82Q2V1L",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b53"
+        }
+      },
+      {
+        "name": "Android Ui",
+        "category": "it_skills",
+        "code_id": "KSXJ7XB9T8PJONA9FLFL",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b54"
+        }
+      },
+      {
+        "name": "Firebase",
+        "category": "it_skills",
+        "code_id": "KSEJ9O7MDIF29LQKLT2F",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b55"
+        }
+      },
+      {
+        "name": "Java",
+        "category": "it_skills",
+        "code_id": "KS120076FGP5WGWYMP0F",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b56"
+        }
+      },
+      {
+        "name": "Android NDK",
+        "category": "it_skills",
+        "code_id": "KS120H0633DWF2RKM3CP",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b57"
+        }
+      },
+      {
+        "name": "Mobile Application Software",
+        "category": "it_skills",
+        "code_id": "KS125C56C2Y9MPSV9YQ3",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b58"
+        }
+      },
+      {
+        "name": "Gradle",
+        "category": "it_skills",
+        "code_id": "KS124GS69JDX0HLVZZS3",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b59"
+        }
+      },
+      {
+        "name": "Flutter",
+        "category": "it_skills",
+        "code_id": "KS06P6QEJ0ZYNIGP6PCE",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b5a"
+        }
+      },
+      {
+        "name": "Reactive Programming",
+        "category": "it_skills",
+        "code_id": "KSO63GGGGXCM3V0GYLKT",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e40ab8d59262f2c6b6b5b"
+        }
+      }
+    ],
+    "created_by": {
+      "$oid": "6528ce103790198da9847744"
+    },
+    "createdAt": {
+      "$date": "2023-10-16T10:48:39.896Z"
+    },
+    "updatedAt": {
+      "$date": "2023-10-19T10:11:13.253Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "652d26ff8d59262f2c6b5dbf"
+    },
+    "status": {
+      "label": "Open",
+      "value": "1"
+    },
+    "title": "iOS developer",
+    "short_description": "<p>ios developer</p>",
+    "long_description": "<p>ios developer</p>",
+    "company": {
+      "bedrijfsnaam": "Test Stichting Bolderbast",
+      "_id": {
+        "$oid": "652cba58d832d4defba906ac"
+      }
+    },
+    "sector": {
+      "label": "Job placement",
+      "value": "2"
+    },
+    "work_location": {
+      "label": "Amdavad",
+      "value": "1"
+    },
+    "start_date": {
+      "$date": "2023-10-16T17:33:00.000Z"
+    },
+    "end_date": {
+      "$date": "2023-12-16T17:33:00.000Z"
+    },
+    "time_duration": {
+      "label": "6 to 12 months",
+      "value": "3"
+    },
+    "working_hours": {
+      "min": 15,
+      "max": 60
+    },
+    "hours_rate": {
+      "min": 35,
+      "max": 111
+    },
+    "education": {
+      "label": "Enginer",
+      "value": "1"
+    },
+    "published": false,
+    "publish_from": {
+      "$date": "2023-10-16T17:33:00.000Z"
+    },
+    "publish_to": {
+      "$date": "2023-11-16T17:33:00.000Z"
+    },
+    "owner": {
+      "$oid": "6528ce103790198da9847744"
+    },
+    "profession": {
+      "category": "professions",
+      "code_id": "5273",
+      "description": "iOS developer (m/v)"
+    },
+    "skills": [
+      {
+        "name": "Swift (Programmeertaal)",
+        "category": "it_skills",
+        "code_id": "KSDL2I79RPDGPJBZNOT4",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bf3"
+        }
+      },
+      {
+        "name": "Ios Frameworks",
+        "category": "it_skills",
+        "code_id": "KSBHU3UR08EHCPHKA7KX",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bf4"
+        }
+      },
+      {
+        "name": "Objective-C",
+        "category": "it_skills",
+        "code_id": "KS1275N74XZ574T7N47D",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bf5"
+        }
+      },
+      {
+        "name": "Swiftui",
+        "category": "it_skills",
+        "code_id": "KS9RAK9QKY5PAXMG06MN",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bf6"
+        }
+      },
+      {
+        "name": "Uikit",
+        "category": "it_skills",
+        "code_id": "KS7ES0QY5P8Z3LC9ULV4",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bf7"
+        }
+      },
+      {
+        "name": "Apple IOS",
+        "category": "it_skills",
+        "code_id": "KS120KG6WHGRLKG6DFS3",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bf8"
+        }
+      },
+      {
+        "name": "IOS Applications",
+        "category": "it_skills",
+        "code_id": "KS120K369N6FRXGKL0SN",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bf9"
+        }
+      },
+      {
+        "name": "Xcode",
+        "category": "it_skills",
+        "code_id": "KS120KT71H7QN93P89J9",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bfa"
+        }
+      },
+      {
+        "name": "Cocoapods",
+        "category": "it_skills",
+        "code_id": "KSK5LWYUO72ISA4JCQOO",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bfb"
+        }
+      },
+      {
+        "name": "Ios Sdk",
+        "category": "it_skills",
+        "code_id": "KS125BL6GMSSNYP1KX64",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bfc"
+        }
+      },
+      {
+        "name": "Cocoa Touch",
+        "category": "it_skills",
+        "code_id": "KSMCOSU42IS0FMQH7ODJ",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bfd"
+        }
+      },
+      {
+        "name": "MVVM",
+        "category": "it_skills",
+        "code_id": "KS126TT617NQ007M2JJ4",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bfe"
+        }
+      },
+      {
+        "name": "Mobile Application Development",
+        "category": "it_skills",
+        "code_id": "KS121JW5XD3J5438SMXP",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6bff"
+        }
+      },
+      {
+        "name": "Xctest",
+        "category": "it_skills",
+        "code_id": "KSX5PU4DGDU5WZ6XCI99",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6c00"
+        }
+      },
+      {
+        "name": "Mobile Application Software",
+        "category": "it_skills",
+        "code_id": "KS125C56C2Y9MPSV9YQ3",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e41078d59262f2c6b6c01"
+        }
+      }
+    ],
+    "created_by": {
+      "$oid": "6528ce103790198da9847744"
+    },
+    "createdAt": {
+      "$date": "2023-10-16T12:05:19.946Z"
+    },
+    "updatedAt": {
+      "$date": "2023-10-19T10:11:22.355Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "652e44fc8d59262f2c6b6c4e"
+    },
+    "status": {
+      "label": "Open",
+      "value": "1"
+    },
+    "title": "business developement",
+    "short_description": "<p>business developementbusiness developement</p>",
+    "long_description": "<p>business developement</p>",
+    "company": {
+      "bedrijfsnaam": "Test Stichting Bolderbast",
+      "_id": {
+        "$oid": "652cba58d832d4defba906ac"
+      }
+    },
+    "sector": {
+      "label": "Job placement",
+      "value": "2"
+    },
+    "work_location": {
+      "label": "Baroda",
+      "value": "2"
+    },
+    "start_date": {
+      "$date": "2023-10-17T13:52:56.744Z"
+    },
+    "end_date": {
+      "$date": "2023-10-17T13:52:56.744Z"
+    },
+    "time_duration": {
+      "label": "Longer than 12 months",
+      "value": "4"
+    },
+    "working_hours": {
+      "min": 1,
+      "max": 49
+    },
+    "hours_rate": {
+      "min": 35,
+      "max": 350
+    },
+    "published": false,
+    "publish_from": {
+      "$date": "2023-10-17T13:52:56.744Z"
+    },
+    "publish_to": {
+      "$date": "2023-10-17T13:52:56.744Z"
+    },
+    "owner": {
+      "$oid": "6528ce103790198da9847744"
+    },
+    "profession": {
+      "category": "professions",
+      "code_id": "4585",
+      "description": "Business development manager (m/v)"
+    },
+    "skills": [
+      {
+        "name": "Zakelijke Ontwikkeling",
+        "category": "professional_skills",
+        "code_id": "KS1212B6QR5SK1LSD4S4",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c4f"
+        }
+      },
+      {
+        "name": "Leadgeneratie",
+        "category": "professional_skills",
+        "code_id": "KS125RT75ZYS4TCFJ0H8",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c50"
+        }
+      },
+      {
+        "name": "Verkoop",
+        "category": "professional_skills",
+        "code_id": "KS123X777H5WFNXQ6BPM",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c51"
+        }
+      },
+      {
+        "name": "Verkoopproces",
+        "category": "professional_skills",
+        "code_id": "KS4407F6YY6SBS730MJ8",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c52"
+        }
+      },
+      {
+        "name": "Klantenrelatiebeheer",
+        "category": "professional_skills",
+        "code_id": "KS1217P66NK6BW72M9FH",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c53"
+        }
+      },
+      {
+        "name": "Cold Calling",
+        "category": "professional_skills",
+        "code_id": "KS1223966G4Q22CCCYC6",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c54"
+        }
+      },
+      {
+        "name": "Marketing",
+        "category": "professional_skills",
+        "code_id": "KS124QR6F19BX4WPMW1H",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c55"
+        }
+      },
+      {
+        "name": "Business to Business",
+        "category": "professional_skills",
+        "code_id": "KS120VC7108H86J50CYW",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c56"
+        }
+      },
+      {
+        "name": "Accountbeheer",
+        "category": "professional_skills",
+        "code_id": "KSW8NOHK0LXEN9AT9TN0",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c57"
+        }
+      },
+      {
+        "name": "Omzetdoelstellingen Opstellen",
+        "category": "professional_skills",
+        "code_id": "KS441736SW8LK5KZHTQ9",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c58"
+        }
+      },
+      {
+        "name": "Onderhandelen",
+        "category": "professional_skills",
+        "code_id": "KS126X663B21NB77ZHSP",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c59"
+        }
+      },
+      {
+        "name": "Salesforce",
+        "category": "it_skills",
+        "code_id": "KS4407N6CMTCYT0NYSVM",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c5a"
+        }
+      },
+      {
+        "name": "Verkoopstrategie",
+        "category": "professional_skills",
+        "code_id": "KSQFS1ELSV12O9PFSW3M",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c5b"
+        }
+      },
+      {
+        "name": "Klantwaardepropositie",
+        "category": "professional_skills",
+        "code_id": "KS122M16Z6XH28KZHQSB",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c5c"
+        }
+      },
+      {
+        "name": "Presentaties",
+        "category": "professional_skills",
+        "code_id": "KS4BI7PI6Y3QZ6SPX9JV",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "652e44fc8d59262f2c6b6c5d"
+        }
+      }
+    ],
+    "created_by": {
+      "$oid": "6528ce103790198da9847744"
+    },
+    "createdAt": {
+      "$date": "2023-10-17T08:25:32.626Z"
+    },
+    "updatedAt": {
+      "$date": "2023-10-19T11:08:14.526Z"
+    },
+    "__v": 0,
+    "education": {
+      "label": "Administration",
+      "value": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "653a59c77ca4d24b6c73e53f"
+    },
+    "status": {
+      "label": "Open",
+      "value": "1"
+    },
+    "title": "web designer",
+    "short_description": "<p>web designer</p>",
+    "long_description": "<p>web designer</p>",
+    "company": {
+      "bedrijfsnaam": "Test NV Katrien",
+      "_id": {
+        "$oid": "653a55463f392d9b9e44667f"
+      }
+    },
+    "sector": {
+      "label": "Job placement",
+      "value": "2"
+    },
+    "work_location": {
+      "label": "Amdavad",
+      "value": "1"
+    },
+    "start_date": {
+      "$date": "2023-10-26T12:20:15.474Z"
+    },
+    "end_date": {
+      "$date": "2023-10-26T12:20:15.474Z"
+    },
+    "time_duration": {
+      "label": "Up to 3 months",
+      "value": "1"
+    },
+    "working_hours": {
+      "min": 10,
+      "max": 20
+    },
+    "working_hours_unit": "web designer",
+    "hours_rate": {
+      "min": 35,
+      "max": 50
+    },
+    "education": {
+      "label": "Hospitality",
+      "value": "3"
+    },
+    "published": false,
+    "publish_from": {
+      "$date": "2023-10-26T12:20:15.474Z"
+    },
+    "publish_to": {
+      "$date": "2023-10-26T12:20:15.474Z"
+    },
+    "owner": {
+      "$oid": "65277de95a654a292ad0eb17"
+    },
+    "profession": {
+      "category": "professions",
+      "code_id": "785",
+      "description": "Webdesigner (m/v)"
+    },
+    "skills": [
+      {
+        "name": "Webdesign",
+        "category": "professional_skills",
+        "code_id": "KS122VP5W9LZ8TRNFJY0",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e540"
+        }
+      },
+      {
+        "name": "Drupal",
+        "category": "it_skills",
+        "code_id": "KS1235W6HWFKFTM31M45",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e541"
+        }
+      },
+      {
+        "name": "Wordpress",
+        "category": "it_skills",
+        "code_id": "KS4424P6G7QVWXC3B756",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e542"
+        }
+      },
+      {
+        "name": "CSS",
+        "category": "it_skills",
+        "code_id": "KS121F45VPV8C9W3QFYH",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e543"
+        }
+      },
+      {
+        "name": "HTML",
+        "category": "it_skills",
+        "code_id": "KS1200578T5QCYT0Z98G",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e544"
+        }
+      },
+      {
+        "name": "Adobe Photoshop",
+        "category": "it_skills",
+        "code_id": "KS1206Y6W7F5JS3VBTFL",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e545"
+        }
+      },
+      {
+        "name": "PHP",
+        "category": "it_skills",
+        "code_id": "KS1200C5XQWW78VQ5ZYL",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e546"
+        }
+      },
+      {
+        "name": "Grafisch Ontwerp",
+        "category": "professional_skills",
+        "code_id": "KS124H46Q2PP8YC1WQ06",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e547"
+        }
+      },
+      {
+        "name": "Adobe Illustrator",
+        "category": "it_skills",
+        "code_id": "KS1206V6K46N1SDVJGBD",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e548"
+        }
+      },
+      {
+        "name": "HTML5",
+        "category": "it_skills",
+        "code_id": "KS120RM619V18NJXTHV1",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e549"
+        }
+      },
+      {
+        "name": "Figma",
+        "category": "it_skills",
+        "code_id": "KSNQCEX0FGMCVVVXQ0MD",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e54a"
+        }
+      },
+      {
+        "name": "Webontwikkeling",
+        "category": "it_skills",
+        "code_id": "KS122Z36QK3N5097B5JH",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e54b"
+        }
+      },
+      {
+        "name": "Jquery",
+        "category": "it_skills",
+        "code_id": "KS125KQ5WKM97L66SSQY",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e54c"
+        }
+      },
+      {
+        "name": "Twig",
+        "category": "it_skills",
+        "code_id": "KSHOK73GRCWHGT3OZRM9",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e54d"
+        }
+      },
+      {
+        "name": "JavaScript",
+        "category": "it_skills",
+        "code_id": "KS1200771D9CR9LB4MWW",
+        "is_extra": false,
+        "checked": true,
+        "_id": {
+          "$oid": "653a59c77ca4d24b6c73e54e"
+        }
+      }
+    ],
+    "created_by": {
+      "$oid": "65277de95a654a292ad0eb17"
+    },
+    "createdAt": {
+      "$date": "2023-10-26T12:21:27.704Z"
+    },
+    "updatedAt": {
+      "$date": "2023-10-26T12:21:27.704Z"
+    },
+    "__v": 0
+  }
+]
